@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calm-oxide-343907",
+  "private_key_id": "0ce6e5a2811c7387eb7325cbf91d4d40b31364df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyBIHHGdSkAbfD\nZMcF6GXagXN0qbmUtrT0Tpq7qGuznEVWYerU4ANIl9FgeSHnj+fNJqZ7G4a9lP+J\n8WX+4S1XEJbyvUz5GeUphM8hG65vabmNGqoC6sOdouSqBpaSmWOuTNXWY8iWwhc4\nJbLEYvcNGzz/v4N92jN1VD5RwqGIpXHkxk0nF3MD1fOdCbhug/RKcBNsCoyopld2\n/YJMhG854RjC3cCJmtgxFR3a8wvYZ2ur7tv6p/Xp0g9j+EcqZ4PR0IASEfEr6xre\nTKyOVVKXHBb18JZ58WhpUvg05E7EJL4y3Nrx6r3ONpqW0uXqwi0vf+yylJy6jQwK\ng7OtUAgBAgMBAAECggEATG5W8g8LFyeNqJzaPpUbNgeidJJylYEkjEg7cxrKsyED\nPCVqV9+eSUq1oMAhaHSGx7QygmS9IySX2rgEXLx9ZQZAaRQRuln95CebbtGdwUQZ\nYJX0LLBzMHlByCZv+51UCQAAR74r316R7Y9yA5OiEsSBGiU15ZELyvJSl3QDOtFm\nfCrplFHJgVS+tRq0G+RIZoVU7+XGqa4LdKSvf/enc78iuuQhZoCaflH2OoFKKuOr\nPPbIyPxAeE5f7XD+8V5bueriW06x1Bf0p6lEVVDy4GYKPvIglHojsijcTrVbgP1V\nMhZlBx0n/+gZEwQg9SJs9BL0wr7PZY7huYUCDAL6KQKBgQDcy3/BAkkOJ3c18bJM\ntHGkeFOfoDnubbb2JkhvlIN0O82xOvhOTz0g+mp2ab6a+wJkJ2dpmJ5evHTtp5mb\nNRkiySbbl+GqdF3Zz4le8VYhxE9OkoYDUwIS2hkx7b2hTXQgmu42+fkNi7dHkLzV\n49rlrb8T5MjBpbfM3zZsWLHRVwKBgQDOZufEP8dMk79X4c69RqsxNSw7tG0wmqPI\nkk1//4pGWQOkbsclq+jHZky4nXGcHXuJZS1XowrehM5mZCD70TrTl/Nsxwn/6Lgr\n+NG26I2lTVwuCmXdyWaW5hH+Zf8UwmVfkYfp6yaOWdLjyAIxWcFuRy5ceR2p8uBs\n9wSbjPriZwKBgQCe5x40jC6Dr0eOXTpTFfJLygV09l17CR8KHBc5porM1lV83dHi\nmgiGeXKxcf0pkMjxx6IXTy17ROpqN5rHJvnGHTqIA9D3WfRJU6Gr4Mh6WMwy4iTs\ns4rkgm5rjoxRUGrpJFeY3WKuqwTmznX5AZmCfv7rlFYfd+LF4UdLxrGC1QKBgEt+\ngjla5qfQxsT7N+YtSgKWo1Y3OVT0ywFa2fP+YPI4LsffKQJTbbI5bch89ggXFI99\nrWcHoLshMmlrKFFTB0RLqOLZroOm+G5E9VgEmYKj2BqS/Q1xVA/PmTdG0VUjgXbC\nQUdDFngszKE6D+tDHCgc6w0x07LMvl+8vjezCjTzAoGBALLoBUfN83F6SjqLxhmZ\nLtbLUQgZFYnH7F+oUSla2ZiQTNvVr7vnKxEpNYpMsyrosEZWnJwEJpTLcjOZVrH6\n/h4reExBbdYkhtJYfufWZIAYKtt4p72lJ5fXnTbs8p3qqjd48rAqtJTQpDBG0tiV\na/gynSkx8EyttptwApKtKiqu\n-----END PRIVATE KEY-----\n",
+  "client_email": "botchat@calm-oxide-343907.iam.gserviceaccount.com",
+  "client_id": "109855715337880438567",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botchat%40calm-oxide-343907.iam.gserviceaccount.com"
+}
