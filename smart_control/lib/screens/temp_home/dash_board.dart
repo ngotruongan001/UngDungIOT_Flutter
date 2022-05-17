@@ -31,7 +31,7 @@ class _DashboardState extends State<Dashboard> with TickerProviderStateMixin {
   void callApi() {
     getNewsData();
   }
-  var url1 = "https://api.thingspeak.com/channels/1679055/feeds.json?api_key=VR0TQ44DF1FJZ9TX&results=2";
+  var url1 = "Nhập API";
   getNewsData() async  {
     var response = await http.get(Uri.parse(url1));
 
