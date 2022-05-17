@@ -31,7 +31,7 @@ class _WebSocketLed extends State<WebSocketLed> {
     //function to connect
     try {
       channel = IOWebSocketChannel.connect(
-          "ws://192.168.99.100:81"); //channel IP : Port
+          "Nhập IP : Port"); //channel IP : Port
       channel.stream.listen(
         (message) {
           print(message);
