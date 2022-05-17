@@ -5,7 +5,7 @@ import 'package:smart_control/models/temp_hum/temphumi.dart';
 import 'package:web_socket_channel/io.dart';
 
 
-const String esp_url = 'ws://192.168.99.100:81';
+const String esp_url = 'nhập IP và Port';
 
 class TemparaturePage extends StatefulWidget {
   const TemparaturePage({Key? key}) : super(key: key);
